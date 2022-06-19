@@ -1,0 +1,19 @@
+C:\Users\Huzaifa Khan\source\repos\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe.config
+C:\Users\Huzaifa Khan\source\repos\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe
+C:\Users\Huzaifa Khan\source\repos\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.pdb
+C:\Users\Huzaifa Khan\source\repos\Cafe Management System\Cafe Management System\bin\Debug\Guna.UI2.dll
+C:\Users\Huzaifa Khan\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.AssemblyReference.cache
+C:\Users\Huzaifa Khan\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Huzaifa Khan\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Form1.resources
+C:\Users\Huzaifa Khan\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Properties.Resources.resources
+C:\Users\Huzaifa Khan\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.GenerateResource.cache
+C:\Users\Huzaifa Khan\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.CoreCompileInputs.cache
+C:\Users\Huzaifa Khan\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.CopyComplete
+C:\Users\Huzaifa Khan\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.exe
+C:\Users\Huzaifa Khan\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.pdb
+C:\Users\Huzaifa Khan\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Dashboard.resources
+C:\Users\Huzaifa Khan\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.AllUserControls.UC_Welcome.resources
+C:\Users\Huzaifa Khan\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.AllUserControls.UC_AddItems.resources
+C:\Users\Huzaifa Khan\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.AllUserControls.UC_PlaceOrder.resources
+C:\Users\Huzaifa Khan\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.AllUserControls.UC_UpdateItems.resources
+C:\Users\Huzaifa Khan\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.AllUserControls.UC_RemoveItem.resources
